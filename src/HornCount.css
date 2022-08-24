@@ -1,0 +1,12 @@
+label.form-label {
+  color: red;
+  /* text-decoration: underline; */
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+#formcontrol {
+  width:100px;
+  display: inline-block;
+  margin-left: 20px;
+}

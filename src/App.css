@@ -1,0 +1,33 @@
+body {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  background: linear-gradient(white, red);
+  margin-left: 100px;
+}
+
+h2 {
+  text-align: center;
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+#card-body {
+  margin-bottom: 100px;
+}
+
+div.card-title.h5 { 
+  font-size: 35px;
+  font-weight: bolder;
+  color: red;
+  text-decoration: underline;
+}
+
+.card {
+  margin-bottom:30px;
+  margin-right:30px;
+  font-size: 23px;
+}
